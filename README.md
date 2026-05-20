@@ -3,15 +3,13 @@ Proyecto Bootcamp - TripleTen
 
 ## Objetivo
 
-
-
-
-Limpieza, unificación y análisis de base de datos de la Movilidad Urbana y productividad económica de 2024 de la empresa American Development Bank para identificación de ciudades potenciales para la inversión en infraestructura de transporte para el aumento de la productividad y bienestar de la población.
-
+Identificar las ciudades potenciales para la inversión de la empresa American Development Bank en infraestructura de transporte para el aumento de la productividad y bienestar de la población por medio de la Movilidad Urbana y productividad económica del año 2024.
 
 ## Herramientas 
 
-Habilidades y tecnologías: JUPYTER NOTEBOOK, PHYTON (PANDAS, NUMPY, SEABORN).
+* JUPYTER NOTEBOOK. 
+* PHYTON (PANDAS, NUMPY, SEABORN).
+* POWER BI.
 
 ## Preguntas clave
 
@@ -21,6 +19,11 @@ Habilidades y tecnologías: JUPYTER NOTEBOOK, PHYTON (PANDAS, NUMPY, SEABORN).
 
 ## Metodología
 
+* Limpieza de datos
+
+* Procesamiento de datos
+
+* Ánalisis de información
 
 
 ## Conclusiones y recomendaciones
@@ -29,7 +32,7 @@ Habilidades y tecnologías: JUPYTER NOTEBOOK, PHYTON (PANDAS, NUMPY, SEABORN).
 
 ## Diccionario de datos
  
- ### Movilidad urbana:
+ #### *Movilidad urbana:*
 
    * Nombre del dataset: tomtom_traffic.csv
 
@@ -42,7 +45,7 @@ Habilidades y tecnologías: JUPYTER NOTEBOOK, PHYTON (PANDAS, NUMPY, SEABORN).
 
 
 
-### Economía urbana: 
+#### *Economía urbana:* 
 
  * Nombre del dataset: oecd_city_economy.csv
 

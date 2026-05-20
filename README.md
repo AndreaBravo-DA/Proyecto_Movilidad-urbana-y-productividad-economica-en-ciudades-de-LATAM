@@ -28,12 +28,29 @@ Habilidades y tecnologías: JUPYTER NOTEBOOK, PHYTON (PANDAS, NUMPY, SEABORN).
 
 
 ## Diccionario de datos
+ 
+ ### Movilidad urbana:
 
-· # Movilidad urbana: TomTom Traffic Index (datos de tráfico en tiempo real).
+   * Nombre del dataset: tomtom_traffic.csv
+
+   * Descripción: Datos sobre congestión vehicular y condiciones de tráfico en ciudades del mundo. Se registra información sobre niveles de tráfico y congestión en tiempo real en distintas ciudades monitoreadas por TomTom, una empresa global de geolocalización. Cada registro corresponde a una actualización puntual del estado del tráfico en una ciudad.
+
+   * Campos
+
+
+<img width="1024" height="313" alt="image" src="https://github.com/user-attachments/assets/0a5c447e-9c4f-4b20-b7d8-a1eb3c757170" />
 
 
 
+### Economía urbana: 
+
+ * Nombre del dataset: oecd_city_economy.csv
+
+ * Descripción: Contiene indicadores anuales sobre economía urbana, empleo, contaminación y población recopilados por la OECD (Organización para la Cooperación y el Desarrollo Económicos). Cada registro representa una ciudad en un año específico, lo que permite comparar niveles de productividad y desarrollo urbano entre países.
+Indicadores económicos y ambientales por ciudad, recopilados por la OECD (Organización para la Cooperación y el Desarrollo Económico). 
+
+ * Campos
 
 
-2. Economía urbana: OECD Cities (PIB per cápita, desempleo y población).
+<img width="1165" height="217" alt="image" src="https://github.com/user-attachments/assets/76529c47-d505-482e-adbc-329a69025309" />
 

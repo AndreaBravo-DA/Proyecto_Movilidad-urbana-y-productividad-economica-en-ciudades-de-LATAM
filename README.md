@@ -15,7 +15,9 @@ Habilidades y tecnologías: JUPYTER NOTEBOOK, PHYTON (PANDAS, NUMPY, SEABORN).
 
 ## Preguntas clave
 
-
+1. ¿Qué ciudades presentan alta congestión y baja productividad económica?
+2. ¿Cuáles muestran los mejores indicadores combinados (movilidad eficiente y economía fuerte)?
+3. ¿Qué variables parecen tener una relación más fuerte con el desarrollo urbano?
 
 ## Metodología
 
@@ -26,3 +28,12 @@ Habilidades y tecnologías: JUPYTER NOTEBOOK, PHYTON (PANDAS, NUMPY, SEABORN).
 
 
 ## Diccionario de datos
+
+· # Movilidad urbana: TomTom Traffic Index (datos de tráfico en tiempo real).
+
+
+
+
+
+2. Economía urbana: OECD Cities (PIB per cápita, desempleo y población).
+

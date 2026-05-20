@@ -38,7 +38,7 @@ Habilidades y tecnologías: JUPYTER NOTEBOOK, PHYTON (PANDAS, NUMPY, SEABORN).
    * Campos
 
 
-<img width="1024" height="313" alt="image" src="https://github.com/user-attachments/assets/0a5c447e-9c4f-4b20-b7d8-a1eb3c757170" />
+<img width="923" height="313" alt="image" src="https://github.com/user-attachments/assets/eba54864-1044-4759-85c4-4a2da01e3fbb" />
 
 
 

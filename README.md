@@ -30,7 +30,7 @@ Visualización de la relación entre economía y tráfico, resumen ejecutivo.
 
 ## Hallazgos y recomendaciones
 
-Hallazgos iniciales:
+#### Hallazgos iniciales:
 
 Montevideo, Uruguay es la cuidad con mayor PIB per cápita y menor congestión. Posicionándose como caso ideal. La infraestructura que posee ayuda al desarrollo de la productividad económica.
 
@@ -54,7 +54,7 @@ Algunas ciudades con PIB per cápita están entre los 15000 y los 18000 dólares
 
 Se aprecia un sesgo hacia la derecha.
 
-Recomendaciones:
+#### Recomendaciones:
 
 La infraestructura vial que tiene Montevideo es por medio de 4 carreteras centrales que conecta a sus diferentes ciudades externas al centro de la cuidad, la planeación territorial es estructurada y consistente para tener una movilidad exitosa, al igual que el tamaño de dicha cuidad no es grande, por lo que se puede tener un control territorial del crecimiento.
 
